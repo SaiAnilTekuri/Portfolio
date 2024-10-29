@@ -117,6 +117,19 @@ const Portfolio = () => {
 
   const experiences = [
     {
+      company: "Anand PAG Inc.",
+      image: "/images/and-pag-logo.png",
+      roles: "IAM Engineer · OKTA · Identity & Access Management",
+      description: [
+        "Orchestrated enterprise-wide Okta SSO enabling secure access for 100+ users, reducing login time by 60%.",
+        "Established Okta Life-cycle Management reducing user provisioning time by 30% through automated workflows.",
+        "Implemented Multi-Factor Authentication (MFA) using Okta Verify, reducing security incidents by 75%.",
+        "Built custom Okta access policies and role-based groups for 4+ departments ensuring Zero Trust compliance."
+      ],
+      action: "View Work",
+      actionLink: "#"
+    },
+    {
       company: "Wipro Limited",
       image: "/images/wipro-logo.png",
       roles: "DevOps Engineer · Automation · Cloud",
