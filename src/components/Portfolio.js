@@ -316,7 +316,7 @@ const Portfolio = () => {
               />
               <div className="flex space-x-4 mt-6">
                 <motion.button className="bg-black text-white px-4 py-2 rounded-full text-sm md:text-base font-semibold" whileHover={{ scale: 1.05, backgroundColor: "#2d3748" }}>
-                <a href="https://drive.google.com/file/d/1tuCXKOHwYCI24WY3u4xElejJaTkpnLgM/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
+                <a href="https://drive.google.com/file/d/18YV5PxhIqg7sG7ASgEqtDs64HQbeieCb/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
                 </motion.button>
                 <motion.button className="bg-white text-black px-4 py-2 rounded-full text-sm md:text-base font-semibold border border-black" whileHover={{ scale: 1.05, backgroundColor: "#f7fafc" }}>
                   <a href="https://www.linkedin.com/in/anil-tekuri/" target="_blank" rel="noreferrer">LinkedIn</a>
